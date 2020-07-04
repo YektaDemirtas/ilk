@@ -1,1 +1,1 @@
-print("ilk python")
+print("değiştirildi")
